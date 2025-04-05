@@ -1,5 +1,10 @@
 body {
   background-color: #1e2a38;
-  columns: white;
+  color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
